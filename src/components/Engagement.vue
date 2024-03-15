@@ -12,7 +12,7 @@
        
         <p class="text-blue-900 text-xl"><strong>Es facil y rapido.</strong> Podés hacerlo todo <br> online, cuándo y dónde vos quieras.</p>
     </div>
-    <div class="grid grid-cols-3 gap-4 w-4/5 mx-auto">
+    <div class="flex flex-col md:grid md:grid-cols-3 gap-4 w-4/5 mx-auto">
         <article class="flex flex-col justify-evenly items-center gap-1 col-span-1 h-56 ">
             <div class="flex justify-center">
                 <img class="w-20" src="../assets/images/search.svg" alt="search_svg">

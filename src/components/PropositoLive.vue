@@ -5,7 +5,7 @@
         <img src="../assets/images/circle.svg" class="absolute bottom-0 -right-40 -z-50 h-52 " alt="circle_svg">
 
         <h2 class="text-3xl font-semibold text-blue-900">Propósito Life</h2>
-        <div class="grid grid-cols-4 gap-4 w-4/5 mx-auto">
+        <div class="flex flex-col md:grid md:grid-cols-4 gap-4 w-4/5 mx-auto">
 
             <article
                 class="flex flex-col justify-evenly items-center text-center gap-1 col-span-1 h-80 border-2 border-teal-500  rounded-xl p-5">

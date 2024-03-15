@@ -7,7 +7,7 @@
 
         <div class="flex flex-col justify-center items-center py-10 w-4/5 mx-auto">
             <hr class=" col-span-2 bg-teal-500 h-[.5px] border-none w-10/12 text-center">
-            <div class="grid grid-cols-3 my-10">
+            <div class="flex flex-col md:grid md:grid-cols-3 my-10 space-y-5">
 
                 <div class="flex mx-auto col-span-1 gap-5">
                     <a href="#">
@@ -97,7 +97,7 @@
 
         <div class="flex mx-auto w-4/5 justify-center py-5">
             <a href="#">
-               <p class="text-sm text-teal-500 hover:scale-125 duration-300"  >© 2024 Martin Leandro Martinez. Todos los derechos reservados.</p> 
+               <p class="text-sm text-teal-500 hover:scale-125 duration-300 text-center"  >© 2024 Martin Leandro Martinez. Todos los derechos reservados.</p> 
             </a>
             
         </div>
